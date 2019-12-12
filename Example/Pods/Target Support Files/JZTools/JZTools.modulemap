@@ -1,0 +1,6 @@
+framework module JZTools {
+  umbrella header "JZTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
